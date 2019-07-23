@@ -1,1 +1,5 @@
-My test file for the bootcamp.
+My file for the bootcamp
+
+I'm adding some cool new stuff.
+
+This git branching stuff is both new, exciting, and confusing.
